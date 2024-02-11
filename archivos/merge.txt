@@ -2,4 +2,5 @@ Soy Sebastián Martínez Sequeira
 Tengo 17 años de edad
 Mis aspiraciones para este semestre en el curso de POO son poder aprender las cosas basicas de Java y ponerlas
 aprueba en el trabajo del curso y mejorar mi maneje de Python
-Se pudo crear un commit luego del paso 9 debido a que para Github una carpeta vacia no cuenta como un cambio nuevo y por el contrario con un archivo si lo cuenta como un nuevo cambio.
+Se pudo crear un commit luego del paso 9 debido a que para Github una carpeta vacia no cuenta como un cambio nuevo 
+y por el contrario con un archivo si lo cuenta como un nuevo cambio.
