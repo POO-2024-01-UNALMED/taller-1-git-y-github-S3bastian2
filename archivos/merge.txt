@@ -4,3 +4,6 @@ Mis aspiraciones para este semestre en el curso de POO son poder aprender las co
 aprueba en el trabajo del curso y mejorar mi maneje de Python
 Se pudo crear un commit luego del paso 9 debido a que para Github una carpeta vacia no cuenta como un cambio nuevo 
 y por el contrario con un archivo si lo cuenta como un nuevo cambio.
+Es importante tener cuidado con el conflicto de archivos debido a que esto puede generar problemas en nuestro
+codigo como por ejemplo la dificultad para su lectura, volviendo imposible el uso de este y puede generar perdida
+de archivos en nuestro trabajo colaborativo.
