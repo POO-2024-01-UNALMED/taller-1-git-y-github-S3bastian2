@@ -1,0 +1,3 @@
+En al paso anterior no me ha dejado enviar un commit debido a que se creo la carpeta "archivos", resulta 
+y pasa que Github no deja enviar un commit si no se ha creado un archivo dentro de esa carpeta dada esta razon 
+no ha dejado enviar el commit en el paso anterior
