@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+Sebastián Martínez Sequeira
+Edad 17 años
+Mis aspiraciones para POO son no solo aprender los conceptos basicos del lenguaje de Java si no tambien 
+lo que aprenda ponerlo en practica en los proyectos que realicemos en el curso, tambien mejorar en mi uso de
+Python.
+=======
+¿Por qué ahora si puedo crear un commit y subir la carpeta?
+Porque ahora hay un archivo dentro de la carpeta y Github me deja hacer el commit de archivos vacios, por el contrario en carpetas vacias
+no deja hacer el commit porque este considera que no hay nada dentro que se pueda guardar.
+>>>>>>> 72c0ecfdbf40cde1f0d85b48e1cc0bfdc94a453f
