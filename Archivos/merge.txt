@@ -1,3 +1,5 @@
 ¿Por qué ahora si puedo crear un commit y subir la carpeta?
 Porque ahora hay un archivo dentro de la carpeta y Github me deja hacer el commit de archivos vacios, por el contrario en carpetas vacias
 no deja hacer el commit porque este considera que no hay nada dentro que se pueda guardar.
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Es crucial estar atentos a posibles errores como estos, especialmente cuando trabajamos de manera colaborativa con otros compañeros. Existe la posibilidad de que modifiquemos un archivo mientras otro compañero también lo está editando simultáneamente. En el momento de realizar el commit, puede surgir un error indicando que la operación no se ha completado debido a que se realizaron cambios conflictivos en el mismo archivo, sin una secuencia adecuada de guardado. Esta situación puede generar conflictos en el código y aumentar la probabilidad de errores durante su lectura y comprensión.
