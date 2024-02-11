@@ -1,0 +1,4 @@
+Soy Sebastián Martínez Sequeira
+Tengo 17 años de edad
+Mis aspiraciones para este semestre en el curso de POO son poder aprender las cosas basicas de Java y ponerlas
+aprueba en el trabajo del curso y mejorar mi maneje de Python
