@@ -1,5 +1,0 @@
-Sebastián Martínez Sequeira
-Edad 17 años
-Mis aspiraciones para POO son no solo aprender los conceptos basicos del lenguaje de Java si no tambien 
-lo que aprenda ponerlo en practica en los proyectos que realicemos en el curso, tambien mejorar en mi uso de
-Python.
