@@ -1,0 +1,3 @@
+¿Por qué ahora si puedo crear un commit y subir la carpeta?
+Porque ahora hay un archivo dentro de la carpeta y Github me deja hacer el commit de archivos vacios, por el contrario en carpetas vacias
+no deja hacer el commit porque este considera que no hay nada dentro que se pueda guardar.
